@@ -1,3 +1,3 @@
 What I have learned from this course
 I have learnt how to create a repo
-I have learnt how to commit change
+I have learnt how to commit changes 
